@@ -1,1 +1,1 @@
-# In the work Kmeans Times series are used to classify radio base sations and other algorithms will be used to find optimal setting for each site in order to it energy efficiency; to remind one BTS has thousands od parameters so AI is a mast !! 
+# In this work Kmeans Times series are used to classify radio base sations and other algorithms will be used to find optimal setting for each site in order to it energy efficiency; to remind one BTS has thousands od parameters so AI is a mast !! 
